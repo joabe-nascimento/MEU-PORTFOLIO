@@ -1,0 +1,128 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(234, 234, 234);
+}
+
+
+#nav{
+    position: sticky;
+    margin: 5px;
+    top: 0;
+    z-index: 101;
+    padding: 0px;
+    color: black;
+    background-color: black;
+    border-radius: 15px;
+
+}
+
+.logo{
+margin: 0px;
+width: 130px;
+
+}
+
+
+
+
+h1 {
+    max-width: 100%;
+    margin: auto;
+    padding: 3%;
+    padding-bottom: 2%;
+    font-size: 160%;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.slogan{
+    margin: auto;
+    padding: 0%;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 160%;
+    font-weight: 400;
+    margin-top: -2%;
+}
+
+.button1{
+    margin: 0  auto;
+    padding: 0;
+    display: flex;  
+    justify-content: center;
+    grid-gap: 5px;
+    flex-wrap: wrap;
+    margin-top: 0%;
+    padding-bottom: 1%;
+    margin-left: 0%;
+    
+}
+.carousel {
+    margin: 0%;
+    padding: 0%;
+    align-items: center;
+}
+
+.card-img-top{
+    align-items: center;
+    padding-right: 0px;
+}
+
+.card-group{
+    margin: 0 auto ;
+    padding: 1%;
+    margin-top: 0%;
+    flex-wrap: wrap;
+    display: flex;
+    width: 100%;
+    display: flex;
+    grid-gap: 16px;
+    padding-top: 1%;
+}
+
+.card-group .card:hover {
+    box-shadow: 0 40px 60px -20px rgba(12, 5, 62, 0.15);
+    z-index: 100;
+    box-shadow: 3px 3px 8px hsl(0, 0%, 5%);
+    
+
+}
+
+
+.card-group .card:hover .card-title{
+    color: #4e22d0;
+}
+
+.card2{
+    margin: 0 auto ;
+    padding: 0%;
+    padding-top: 18%;
+    margin-top: 0%;
+    flex-wrap: wrap;
+    display: flex;
+    width: 100%;
+    font-size: 200%;
+}
+
+
+.img-fluid{
+    margin: 0 auto ;
+    padding: 1%;
+    margin-top: 0%;
+    flex-wrap: wrap;
+    display: flex;
+    width: 100%;
+    display: flex;
+    grid-gap: 16px;
+}
+
+
+
