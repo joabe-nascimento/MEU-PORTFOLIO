@@ -1,1 +1,4 @@
-# PORTFÓLIO 
+- 👋 Hi, I’m Joabe Nascimento - Programador: Front-End
+- 👀 I’m interested in atuar ma area de front-end. pois foi onde eu me identifiquei bastante.
+- 🌱 I’m currently learning HTML, CSS, Java Script e Python.
+- 📫 Pode está acompanhano a minha página pessoal ono instagram @joabenascimento e a minha págima secúndaria @imagidesigner.
